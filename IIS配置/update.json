@@ -1,0 +1,37 @@
+[{
+	"version": "1.0.1",
+	"product": "program.haha.name",
+	"date": "2018-12-30 10:00:00",
+	"log": "log101.log",
+	"url": "http://www.jaylosy.com/update",
+	"files": [{
+		"file": "setup.exe"
+	}, {
+		"file": "Readme.md"
+	}]
+}, {
+	"version": "1.0.2",
+	"product": "program.haha.name",
+	"date": "2018-12-30 10:00:00",
+	"log": "log102.log",
+	"url": "http://www.jaylosy.com/update",
+	"files": [{"file":"pljson-2.2.0.zip"},{"file":"AnkhSvn-2.5.12703.msi"}]
+}][{
+	"version": "1.0.1",
+	"product": "program.haha.name",
+	"date": "2018-12-30 10:00:00",
+	"log": "log101.log",
+	"url": "http://www.jaylosy.com/update",
+	"files": [{
+		"file": "setup.exe"
+	}, {
+		"file": "Readme.md"
+	}]
+}, {
+	"version": "1.0.2",
+	"product": "program.haha.name",
+	"date": "2018-12-30 10:00:00",
+	"log": "log102.log",
+	"url": "http://www.jaylosy.com/update",
+	"files": [{"file":"pljson-2.2.0.zip"},{"file":"AnkhSvn-2.5.12703.msi"}]
+}]
